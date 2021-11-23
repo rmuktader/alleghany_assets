@@ -1,7 +1,11 @@
 {
   // Use IntelliSense to learn about possible attributes.
   // Hover to view descriptions of existing attributes.
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  // This file should not be copied when are building an Django app from scratch.
+  // However, It can be cloned when you clone this boilerplate project to start another project.
+  // See this link https://go.microsoft.com/fwlink/?linkid=830387 to see how generate a new launch.json file.
+  // Remember to choose "Django" in the launch config.
+  // Remember to check he "remoteRoot" value. It might be different in your project.
   "version": "0.2.0",
   "configurations": [
     {
