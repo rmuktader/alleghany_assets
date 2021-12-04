@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django_boilerplate"
+name = "alleghany_assets"
 version = "0.1.0"
 description = ""
 authors = ["Rayhan Muktader <rmuktader@gmail.com>"]

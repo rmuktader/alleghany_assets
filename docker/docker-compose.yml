@@ -1,7 +1,7 @@
 version: '3.9'
 services:
   web:
-    image: "django-boilerplate:dev"
+    image: "alleghany:dev"
     build:
       target: development_build
       context: ..
